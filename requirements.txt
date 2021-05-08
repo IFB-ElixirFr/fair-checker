@@ -1,6 +1,6 @@
 python==3.7.4
 python-engineio==3.0.0
-eventlet==0.25.2
+eventlet==0.31.0
 flask==1.1.1
 flask-socketio==4.3.0
 rdflib==4.2.2
